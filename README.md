@@ -1,3 +1,6 @@
+## Original code by mperino. Updated to use it as an imported library with a Stepper class.
+
+
 # CircuitPython-28BYJ-48-ULN2003
 "Bitbanging a stepper since 9/25/2021!"
 Hope that this code is simple enough, and clear enough that anyone can grok it..
